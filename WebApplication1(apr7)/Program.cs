@@ -19,6 +19,7 @@ namespace WebApplication1_apr7_
                 app.UseHsts();
             }
 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
